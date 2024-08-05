@@ -2,6 +2,9 @@
     width: 100%;
     
 }
+body{
+    overflow:hidden;
+}
 #header{
     background-color: rgb(57, 57, 58);
     display: flex;
